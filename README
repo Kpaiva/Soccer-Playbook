@@ -1,3 +1,9 @@
-Soccer Playbook README:
+------------------Soccer Playbook------------------
 
-Installation and Compiling info will be placed here.
+-Installation:
+	If you don't want the source:
+	Download the Win32 Binaries Zip
+	Extract to the folder of your choice.
+	Run the Exe
+
+I'm not gonna explain how to compile from the source at this time. If you wanna go for it, grab SDL from http://libsdl.org/ and compile with compiler of your choice. I've tested it on Ubuntu with G++ as well as Windows 7 with VS2010. Both compile fine if SDL is set up correctly.
